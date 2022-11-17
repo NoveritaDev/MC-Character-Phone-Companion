@@ -1,0 +1,5 @@
+name: MinecraftTTRPG
+version: 1.0
+author: Noverita
+main: me.noverita.ttrpgplugin.TTRPGPlugin
+api-version: 1.13
